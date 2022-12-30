@@ -1,0 +1,11 @@
+image_path,global_score,category,true_label,pred_label,probability
+test_images/severity=-1/buffet.png,76.74579,Excellent,buffet,No Prediction,1
+test_images/severity=0/buffet.png,76.74579,Excellent,buffet,museum,0.040072232484817505
+test_images/severity=1/brightness/buffet.png,76.97043,Excellent,buffet,museum,0.04069435968995094
+test_images/severity=1/contrast/buffet.png,72.18806,Good,buffet,museum,0.04048636183142662
+test_images/severity=1/jpeg_compression/buffet.png,72.19107,Good,buffet,museum,0.03999282792210579
+test_images/severity=1/saturate/buffet.png,72.73388,Good,buffet,museum,0.040223222225904465
+test_images/severity=2/brightness/buffet.png,76.655365,Excellent,buffet,museum,0.04045913368463516
+test_images/severity=2/contrast/buffet.png,70.31141,Good,buffet,museum,0.04092220589518547
+test_images/severity=2/jpeg_compression/buffet.png,71.58154,Good,buffet,museum,0.04122619330883026
+test_images/severity=2/saturate/buffet.png,70.59695,Good,buffet,museum,0.03965028375387192

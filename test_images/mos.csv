@@ -1,0 +1,24 @@
+image_path,global_score,category,true_label,pred_label,probability
+test_images/severity=-1/kitchen.png,76.61452,Excellent,kitchen,No Prediction,1
+test_images/severity=0/kitchen.png,76.61452,Excellent,kitchen,kitchen,0.9755321741104126
+test_images/severity=1/brightness/kitchen.png,76.791115,Excellent,kitchen,kitchen,0.7970643639564514
+test_images/severity=1/contrast/kitchen.png,73.01154,Good,kitchen,kitchen,0.8300997018814087
+test_images/severity=1/jpeg_compression/kitchen.png,75.367,Good,kitchen,kitchen,0.9867143034934998
+test_images/severity=1/saturate/kitchen.png,74.08867,Good,kitchen,kitchen,0.8795086145401001
+test_images/severity=1/defocus_blur/kitchen.png,55.52211,Poor,kitchen,kitchen,0.632575511932373
+test_images/severity=1/motion_blur/kitchen.png,65.19342,Fair,kitchen,kitchen,0.9958943128585815
+test_images/severity=1/zoom_blur/kitchen.png,60.258553,Fair,kitchen,kitchen,0.9051578044891357
+test_images/severity=2/brightness/kitchen.png,76.555275,Excellent,kitchen,kitchen,0.42400798201560974
+test_images/severity=2/contrast/kitchen.png,70.771065,Good,kitchen,kitchen,0.9584559798240662
+test_images/severity=2/jpeg_compression/kitchen.png,74.07224,Good,kitchen,kitchen,0.9322125911712646
+test_images/severity=2/saturate/kitchen.png,72.75899,Good,kitchen,kitchen,0.7742770314216614
+test_images/severity=2/defocus_blur/kitchen.png,49.470436,Bad,kitchen,kitchen,0.20753824710845947
+test_images/severity=2/motion_blur/kitchen.png,50.199978,Poor,kitchen,kitchen,0.4229820966720581
+test_images/severity=2/zoom_blur/kitchen.png,54.236034,Poor,kitchen,kitchen,0.8720270395278931
+test_images/severity=3/brightness/kitchen.png,75.3459,Good,kitchen,kitchen,0.4469764828681946
+test_images/severity=3/contrast/kitchen.png,67.012825,Fair,kitchen,kitchen,0.747873067855835
+test_images/severity=3/jpeg_compression/kitchen.png,73.65347,Good,kitchen,kitchen,0.9818947911262512
+test_images/severity=3/saturate/kitchen.png,77.26682,Excellent,kitchen,kitchen,0.4656241238117218
+test_images/severity=3/defocus_blur/kitchen.png,42.896294,Bad,kitchen,kitchen,0.2764533758163452
+test_images/severity=3/motion_blur/kitchen.png,44.522175,Bad,kitchen,kitchen,0.2597467601299286
+test_images/severity=3/zoom_blur/kitchen.png,49.716328,Poor,kitchen,kitchen,0.9072133302688599

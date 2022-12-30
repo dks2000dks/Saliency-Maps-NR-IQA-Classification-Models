@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{akbiyik2020data}
+Murtaza~Eren Akbiyik.
+\newblock Data augmentation in training {\{}cnn{\}}s: Injecting noise to
+  images, 2020.
+
+\bibitem{DodgeK16}
+Samuel~F. Dodge and Lina~J. Karam.
+\newblock Understanding how image quality affects deep neural networks.
+\newblock In {\em Eighth International Conference on Quality of Multimedia
+  Experience, QoMEX 2016, Lisbon, Portugal, June 6-8, 2016}, pages 1--6.
+  {IEEE}, 2016.
+
+\bibitem{NSS}
+Wilson~S Geisler.
+\newblock Contributions of ideal observer theory to vision research.
+\newblock {\em Vision research}, 51(7):771--781, 2011.
+
+\bibitem{ResNet}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em 2016 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016}, pages
+  770--778. {IEEE} Computer Society, 2016.
+
+\bibitem{BRISUQE}
+Anish Mittal, Anush~Krishna Moorthy, and Alan~Conrad Bovik.
+\newblock No-reference image quality assessment in the spatial domain.
+\newblock {\em {IEEE} Trans. Image Process.}, 21(12):4695--4708, 2012.
+
+\bibitem{NIQE}
+Anish Mittal, Rajiv Soundararajan, and Alan~C. Bovik.
+\newblock Making a "completely blind" image quality analyzer.
+\newblock {\em {IEEE} Signal Process. Lett.}, 20(3):209--212, 2013.
+
+\bibitem{DIIVINE}
+Anush~Krishna Moorthy and Alan~Conrad Bovik.
+\newblock Blind image quality assessment: From natural scene statistics to
+  perceptual quality.
+\newblock {\em IEEE Transactions on Image Processing}, 20(12):3350--3364, 2011.
+
+\bibitem{mit-indoor-scenes}
+Ariadna Quattoni and Antonio Torralba.
+\newblock Recognizing indoor scenes.
+\newblock In {\em 2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 413--420, 2009.
+
+\bibitem{ImageNet}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+  Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael~S. Bernstein,
+  Alexander~C. Berg, and Li Fei{-}Fei.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em Int. J. Comput. Vis.}, 115(3):211--252, 2015.
+
+\bibitem{InceptionNet}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott~E. Reed,
+  Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2015, Boston, MA, USA, June 7-12, 2015}, pages 1--9. {IEEE} Computer
+  Society, 2015.
+
+\bibitem{PaQ-2-PiQ}
+Zhenqiang Ying, Haoran Niu, Praful Gupta, Dhruv Mahajan, Deepti Ghadiyaram, and
+  Alan~C. Bovik.
+\newblock From patches to pictures (paq-2-piq): Mapping the perceptual space of
+  picture quality.
+\newblock In {\em 2020 {IEEE/CVF} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2020, Seattle, WA, USA, June 13-19, 2020}, pages
+  3572--3582. Computer Vision Foundation / {IEEE}, 2020.
+
+\end{thebibliography}
